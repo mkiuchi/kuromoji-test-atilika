@@ -1,0 +1,1 @@
+# kuromoji-test-atilika
